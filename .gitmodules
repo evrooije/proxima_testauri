@@ -1,0 +1,3 @@
+[submodule "mods/_testauri_modpack/planetoids"]
+	path = mods/_testauri_modpack/planetoids
+	url = https://github.com/evrooije/planetoids
